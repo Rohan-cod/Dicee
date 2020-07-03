@@ -1,5 +1,5 @@
 # Dicee
-Dice rolling IOS App.
+Dice rolling IOS App 🎲.
 
 ## Screenshots
 
